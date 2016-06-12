@@ -179,7 +179,7 @@ namespace PT_Lab5 {
         #endregion
 
         public ulong FibonacciBackgroudMethod(ulong current, ulong previous) {
-            return MathWorker.NextFibonacci(current, previous);
+            return 0;
         }
 
         #region Zadanie 3 - Kompresja
